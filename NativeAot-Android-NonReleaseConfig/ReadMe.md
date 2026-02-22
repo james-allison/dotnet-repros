@@ -6,7 +6,7 @@ Dotnet SDK 10.0.103 with maui-android workload 10.0.103
 
 NativeAot-Android-NonReleaseConfig.csproj is the default sample dotnet maui app.
 
-Debug, Release and AppStore congfigs have all had the following Properties added
+Debug, Release and AppStore configs have all had the following Properties added
 
 ```
     <Optimize>True</Optimize>
