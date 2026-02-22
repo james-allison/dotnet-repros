@@ -29,7 +29,7 @@ The release config has been updated to build with NativeAOT on android.
 ```
 
 
-dotnet publish .\NativeAot-Android-NonReleaseConfig.csproj --framework net10.0-android36.0 --configuration Release -r android-arm64
+dotnet publish .\NativeAot-Android-SkiaSharp.csproj --framework net10.0-android36.0 --configuration Release -r android-arm64
 
 doesn't fail - but does an extra ILC warning:
 
