@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="AppStore" />
+    <BuildType Name="Debug" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="NativeAot-Android-NonReleaseConfig/NativeAot-Android-NonReleaseConfig.csproj">
+    <Deploy />
+  </Project>
+</Solution>
